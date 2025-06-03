@@ -18,7 +18,7 @@
   <br><br>
   🚀 I focus on developing efficient and maintainable backend services.<br>
   🔧 I use <strong>Entity Framework Core</strong>, <strong>REST APIs</strong>, and <strong>Clean Architecture</strong> in most of my projects.<br>
-  🎯 Currently diving deeper into <strong>Docker</strong>, <strong>Microservices</strong> and <strong>CI/CD with GitHub Actions</strong>.<br>
+<!--   🎯 Currently diving deeper into <strong>Docker</strong>, <strong>Microservices</strong> and <strong>CI/CD with GitHub Actions</strong>.<br> -->
   🛠️ Open to collaboration and new challenges in backend development.<br>
   📫 Reach me at: <a href="mailto:ms4805727@gmail.com">ms4805727@gmail.com</a>
 </p>
