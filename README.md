@@ -70,7 +70,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MahmoudSami0&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MahmoudSami0&show_icons=true&theme=react&border_color=61dafb&hide_border=true&cache_seconds=1" />
   <img width="49%" src="https://streak-stats.demolab.com?user=MahmoudSami0&theme=react&border=61dafb&hide_border=true" />
 </p>
 
